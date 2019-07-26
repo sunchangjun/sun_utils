@@ -1,11 +1,6 @@
 package com.utils;
-import com.jcraft.jsch.Channel;
-import com.jcraft.jsch.ChannelSftp;
-import com.jcraft.jsch.ChannelShell;
-import com.jcraft.jsch.JSch;
-import com.jcraft.jsch.JSchException;
-import com.jcraft.jsch.Session;
-
+import com.jcraft.jsch.*;
+import org.apache.commons.lang3.StringUtils;
 import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -17,6 +12,10 @@ public class SshFileUtils {
     private Session session;
     private ChannelSftp sftp;
     private ChannelShell shell;
+    String pwd=PropertiesConfig.getValue("iptv.file.ssh.pwd");
+    String ip=PropertiesConfig.getValue("iptv.file.ssh.ip");
+    String user=PropertiesConfig.getValue("iptv.file.ssh.user");
+
     public SshFileUtils(String  host,String username,String password,int port) throws JSchException {
         openSession(host, username, password,port);
     }
@@ -51,6 +50,9 @@ public class SshFileUtils {
      * @throws Exception
      */
     public boolean transfer(String localFile, String remoteFile) throws Exception {
+        if(org.apache.commons.lang3.StringUtils.isNotBlank(ip) && org.apache.commons.lang3.StringUtils.isNotBlank(user) && StringUtils.isNotBlank(pwd)){
+            openSession(ip,user,pwd,22);
+        }
         sftp = (ChannelSftp) session.openChannel("sftp");
         sftp.connect();
         String parent = getParentPath(remoteFile);
@@ -66,6 +68,9 @@ public class SshFileUtils {
     }
 
     public boolean transfer(InputStream is, String remoteFile) throws Exception {
+        if(StringUtils.isNotBlank(ip) && StringUtils.isNotBlank(user) && StringUtils.isNotBlank(pwd)){
+            openSession(ip,user,pwd,22);
+        }
         sftp = (ChannelSftp) session.openChannel("sftp");
         sftp.connect();
         String parent = getParentPath(remoteFile);
@@ -134,10 +139,11 @@ public class SshFileUtils {
         while (true) {
             while (in.available() > 0) {
                 int i = in.read(buffer, 0, 1024);
-                if (i < 0)break;
+                if (i < 0){
+                    break;}
                 System.out.print(new String(buffer, 0, i));
             }
-            if (channel.isClosed())break;
+            if (channel.isClosed()){break;}
             Thread.sleep(1000);
         }
     }
@@ -161,6 +167,33 @@ public class SshFileUtils {
             session.disconnect();
         }
     }
+
+    class SftpProgressImpl implements SftpProgressMonitor {
+        private long size;
+        private long currentSize = 0;
+        private boolean endFlag = false;
+        @Override
+        public void init(int op, String srcFile, String dstDir, long size) {
+            System.out.println("文件开始上传:" + srcFile + "-->" + dstDir + " ,文件大小:"
+                    + size);
+            this.size = size;
+        }
+        @Override
+        public void end() {
+            System.out.println("文件上传结束");
+            endFlag = true;
+        }
+        @Override
+        public boolean count(long count) {
+            currentSize += count;
+            // System.out.println("上传size:" + currentSize);
+            return true;
+        }
+        public boolean isSuccess() {
+            return endFlag && currentSize == size;
+        }
+    }
+
 
 
 }
