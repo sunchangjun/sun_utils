@@ -16,6 +16,7 @@ import com.csvreader.CsvWriter;
  */
 public class CsvUtils {
 
+
     /**
      * 读取CSV文件
      *
@@ -79,7 +80,6 @@ public class CsvUtils {
                 parent.mkdirs();
             }
             csvFile.createNewFile();
-
             // GB2312使正确读取分隔符","
             csvWtriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(
                     csvFile), "GB2312"), 1024);
