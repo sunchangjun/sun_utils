@@ -1,13 +1,9 @@
 package com.utils;
-
-import com.SunUtilsApplication;
 import com.maxmind.geoip2.DatabaseReader;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.boot.SpringApplication;
 import org.springframework.util.ResourceUtils;
-
 import javax.servlet.http.HttpServletRequest;
 import java.io.File;
 import java.io.IOException;
