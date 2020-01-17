@@ -70,7 +70,8 @@ public class RedisUtil {
 		} catch (JedisException e) {
 			logger.warn("getResource.", e);
 			if (jedis != null) {
-				jedisPool.returnBrokenResource(jedis);
+				//jedisPool.returnBrokenResource(jedis);
+                jedisPool.getResource();
 			}
 			throw e;
 		}
@@ -80,7 +81,8 @@ public class RedisUtil {
 	/* 归还资源 */
 	public static void returnResource(Jedis jedis) {
 		if (jedis != null) {
-			jedisPool.returnResource(jedis);
+			//jedisPool.returnResource(jedis);
+            jedisPool.getResource();
 		}
 	}
 

@@ -1,0 +1,26 @@
+{
+	"cnjp.iplc.ccddns.online" : {
+		"totalUploadBytes" : 61179782,
+		"totalDownloadBytes" : 4148948278
+	},
+	"cchkbn.ccddns.online" : {
+		"totalUploadBytes" : 113646,
+		"totalDownloadBytes" : 1039265
+	},
+	"hk.iepl-hgc2.ccddns.online" : {
+		"totalUploadBytes" : 340253438,
+		"totalDownloadBytes" : 8031075738
+	},
+	"hk.hgc4.ccddns.online" : {
+		"totalUploadBytes" : 45379,
+		"totalDownloadBytes" : 99762
+	},
+	"jp.aws.ccddns.online" : {
+		"totalUploadBytes" : 11715,
+		"totalDownloadBytes" : 11955
+	},
+	"hk.iepl-hgc.ccddns.online" : {
+		"totalUploadBytes" : 5078938,
+		"totalDownloadBytes" : 48654884
+	}
+}
