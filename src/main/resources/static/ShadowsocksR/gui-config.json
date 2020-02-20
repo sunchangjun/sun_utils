@@ -34,7 +34,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : 56
+			"latency" : -2
 		},
 		{
 			"remarks" : "上海联通(倍率:1)",
@@ -52,25 +52,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : 44
-		},
-		{
-			"remarks" : "上海阿里云(倍率:1)",
-			"id" : "A232294E20797403707478E701C0B635",
-			"server" : "139.196.82.179",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "5LiK5rW36Zi_6YeM5LqRKOWAjeeOhzoxKQ",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -2
+			"latency" : 99
 		},
 		{
 			"remarks" : "伦敦VH(倍率:0.6)",
@@ -88,7 +70,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : 288
+			"latency" : -2
 		},
 		{
 			"remarks" : "俄罗斯伯力(倍率:0.7)",
@@ -124,7 +106,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : 127
+			"latency" : -2
 		},
 		{
 			"remarks" : "俄罗斯伯力3(倍率:0.7)",
@@ -142,7 +124,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : 124
+			"latency" : -2
 		},
 		{
 			"remarks" : "俄罗斯伯力4(倍率:0.7)",
@@ -160,7 +142,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : 130
+			"latency" : -2
 		},
 		{
 			"remarks" : "俄罗斯伯力5(倍率:0.7)",
@@ -178,64 +160,10 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : 123
-		},
-		{
-			"remarks" : "俄罗斯新西伯利亚(倍率:0.5)",
-			"id" : "D30F7A737ADF252A27A922084583FD3E",
-			"server" : "103.136.186.106",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "5L-E572X5pav5paw6KW_5Lyv5Yip5LqaKOWAjeeOhzowLjUp",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
 			"latency" : -2
 		},
 		{
-			"remarks" : "俄罗斯莫斯科(倍率:0.5)",
-			"id" : "DDD0CC3AA26C448956A9BBBC62D32EEE",
-			"server" : "ru.mel.ccddns.online",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "5L-E572X5pav6I6r5pav56eRKOWAjeeOhzowLjUp",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : 257
-		},
-		{
-			"remarks" : "北京BGP(倍率:1)",
-			"id" : "CF573D3799F4F0B0789A83A7FD69F0EB",
-			"server" : "117.50.69.227",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "5YyX5LqsQkdQKOWAjeeOhzoxKQ",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "台湾Hinet(倍率:0.9)",
+			"remarks" : "台湾HiNet(倍率:0.9)",
 			"id" : "3D6A5BA8905891D137755E345CDC7EAA",
 			"server" : "tw.hinet.ccddns.online",
 			"server_port" : 33283,
@@ -246,14 +174,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQo5YCN546HOjAuOSk",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQo5YCN546HOjAuOSk",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet10(倍率:0.9)",
+			"remarks" : "台湾HiNet10(倍率:0.9)",
 			"id" : "18FACA4D4C3341863DD4AF6EB0C9323F",
 			"server" : "tw.hinet10.ccddns.online",
 			"server_port" : 33283,
@@ -264,14 +192,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQxMCjlgI3njoc6MC45KQ",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQxMCjlgI3njoc6MC45KQ",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet11(倍率:0.9)",
+			"remarks" : "台湾HiNet11(倍率:0.9)",
 			"id" : "0BAD576D99E2D93ED5B2E4D1D80265AE",
 			"server" : "tw.hinet11.ccddns.online",
 			"server_port" : 33283,
@@ -282,14 +210,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQxMSjlgI3njoc6MC45KQ",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQxMSjlgI3njoc6MC45KQ",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet12(倍率:0.9)",
+			"remarks" : "台湾HiNet12(倍率:0.9)",
 			"id" : "CB0C4FD32ED20835B02FB208499D339A",
 			"server" : "tw.hinet12.ccddns.online",
 			"server_port" : 33283,
@@ -300,14 +228,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQxMijlgI3njoc6MC45KQ",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQxMijlgI3njoc6MC45KQ",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet13(商宽)(倍率:0.9)",
+			"remarks" : "台湾HiNet13(倍率:0.9)",
 			"id" : "956CE0AEE1AEC10965D29AA315852FFB",
 			"server" : "tw.hinet13.ccddns.online",
 			"server_port" : 33283,
@@ -318,14 +246,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQxMyjllYblrr0pKOWAjeeOhzowLjkp",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQxMyjlgI3njoc6MC45KQ",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet14(商宽)(倍率:0.9)",
+			"remarks" : "台湾HiNet14(倍率:0.9)",
 			"id" : "D2BCC5F81497559DAB56FBE79CD8EA1D",
 			"server" : "tw.hinet14.ccddns.online",
 			"server_port" : 33283,
@@ -336,14 +264,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQxNCjllYblrr0pKOWAjeeOhzowLjkp",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQxNCjlgI3njoc6MC45KQ",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet15(倍率:0.9)",
+			"remarks" : "台湾HiNet15(倍率:0.9)",
 			"id" : "58FD5F97EF784B6772E308BB65F54359",
 			"server" : "tw.hinet15.ccddns.online",
 			"server_port" : 33283,
@@ -354,14 +282,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQxNSjlgI3njoc6MC45KQ",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQxNSjlgI3njoc6MC45KQ",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet16(倍率:0.9)",
+			"remarks" : "台湾HiNet16(倍率:0.9)",
 			"id" : "EE0D5DF6F719FD94BEBE7EDBA126AF56",
 			"server" : "tw.hinet16.ccddns.online",
 			"server_port" : 33283,
@@ -372,14 +300,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQxNijlgI3njoc6MC45KQ",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQxNijlgI3njoc6MC45KQ",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet17(倍率:0.9)",
+			"remarks" : "台湾HiNet17(倍率:0.9)",
 			"id" : "5D03525B43BC20FD413B9391255F9501",
 			"server" : "tw.hinet17.ccddns.online",
 			"server_port" : 33283,
@@ -390,14 +318,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQxNyjlgI3njoc6MC45KQ",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQxNyjlgI3njoc6MC45KQ",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet18(倍率:0.9)",
+			"remarks" : "台湾HiNet18(倍率:0.9)",
 			"id" : "E39AC381FB073F6143E8EBCD4A622DCD",
 			"server" : "tw.hinet18.ccddns.online",
 			"server_port" : 33283,
@@ -408,14 +336,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQxOCjlgI3njoc6MC45KQ",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQxOCjlgI3njoc6MC45KQ",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet19(倍率:0.9)",
+			"remarks" : "台湾HiNet19(倍率:0.9)",
 			"id" : "33396EB8843D5879C3E4B1229D2F60FF",
 			"server" : "tw.hinet19.ccddns.online",
 			"server_port" : 33283,
@@ -426,14 +354,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQxOSjlgI3njoc6MC45KQ",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQxOSjlgI3njoc6MC45KQ",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet2(倍率:0.9)",
+			"remarks" : "台湾HiNet2(倍率:0.9)",
 			"id" : "1ABDD8F7B161BFF3B73410D47EB0F26F",
 			"server" : "tw.hinet2.ccddns.online",
 			"server_port" : 33283,
@@ -444,14 +372,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQyKOWAjeeOhzowLjkp",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQyKOWAjeeOhzowLjkp",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 1075
 		},
 		{
-			"remarks" : "台湾Hinet3(倍率:0.9)",
+			"remarks" : "台湾HiNet3(倍率:0.9)",
 			"id" : "D19A28C5E3E1AED256AAA8047E4971AC",
 			"server" : "tw.hinet3.ccddns.online",
 			"server_port" : 33283,
@@ -462,14 +390,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQzKOWAjeeOhzowLjkp",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQzKOWAjeeOhzowLjkp",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 82
 		},
 		{
-			"remarks" : "台湾Hinet4(倍率:0.9)",
+			"remarks" : "台湾HiNet4(倍率:0.9)",
 			"id" : "F6AFE08C4BA8CD397E1BB8127D2FFA39",
 			"server" : "tw.hinet4.ccddns.online",
 			"server_port" : 33283,
@@ -480,14 +408,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQ0KOWAjeeOhzowLjkp",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQ0KOWAjeeOhzowLjkp",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 83
 		},
 		{
-			"remarks" : "台湾Hinet5(倍率:0.9)",
+			"remarks" : "台湾HiNet5(倍率:0.9)",
 			"id" : "0C811B9712D3458573519C08DCB115CE",
 			"server" : "tw.hinet5.ccddns.online",
 			"server_port" : 33283,
@@ -498,14 +426,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQ1KOWAjeeOhzowLjkp",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQ1KOWAjeeOhzowLjkp",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 85
 		},
 		{
-			"remarks" : "台湾Hinet6(倍率:0.9)",
+			"remarks" : "台湾HiNet6(倍率:0.9)",
 			"id" : "DB57D56354A635D2F79415860B30153F",
 			"server" : "tw.hinet6.ccddns.online",
 			"server_port" : 33283,
@@ -516,14 +444,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQ2KOWAjeeOhzowLjkp",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQ2KOWAjeeOhzowLjkp",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 85
 		},
 		{
-			"remarks" : "台湾Hinet7(倍率:0.9)",
+			"remarks" : "台湾HiNet7(倍率:0.9)",
 			"id" : "8BBA7D09C5FF2899B4D67595D91E2945",
 			"server" : "tw.hinet7.ccddns.online",
 			"server_port" : 33283,
@@ -534,14 +462,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQ3KOWAjeeOhzowLjkp",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQ3KOWAjeeOhzowLjkp",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 74
 		},
 		{
-			"remarks" : "台湾Hinet8(倍率:0.9)",
+			"remarks" : "台湾HiNet8(倍率:0.9)",
 			"id" : "D557BE4F8D6E11B7A39EF3BC4D694F2E",
 			"server" : "tw.hinet8.ccddns.online",
 			"server_port" : 33283,
@@ -552,14 +480,14 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQ4KOWAjeeOhzowLjkp",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQ4KOWAjeeOhzowLjkp",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "台湾Hinet9(倍率:0.9)",
+			"remarks" : "台湾HiNet9(倍率:0.9)",
 			"id" : "07C75E945CBFDAB88369C956970EFC7F",
 			"server" : "tw.hinet9.ccddns.online",
 			"server_port" : 33283,
@@ -570,11 +498,11 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5Y-w5rm-SGluZXQ5KOWAjeeOhzowLjkp",
+			"remarks_base64" : "5Y-w5rm-SGlOZXQ5KOWAjeeOhzowLjkp",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "德国TL(倍率:0.6)",
@@ -592,7 +520,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "德国TL2(倍率:0.6)",
@@ -610,7 +538,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "德国TL3(倍率:0.6)",
@@ -628,7 +556,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "新加坡AWS(倍率:0.6)",
@@ -646,7 +574,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "新加坡Azure(倍率:0.7)",
@@ -664,7 +592,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本AWS(倍率:0.5)",
@@ -682,7 +610,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本Azure(倍率:1)",
@@ -700,7 +628,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本Azure2(倍率:1)",
@@ -718,7 +646,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本CloudN(倍率:0.7)",
@@ -736,97 +664,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "日本GMO(倍率:0.7)",
-			"id" : "3DD9A5E2A748B4BE8002786C1DE9F550",
-			"server" : "jp.gmo.m3lg534ff.ccddns.online",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "5pel5pysR01PKOWAjeeOhzowLjcp",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "日本GMO2(倍率:0.7)",
-			"id" : "61AEAA0B11A8B4392915C2462FAC04C0",
-			"server" : "jp.gmo2.ccddns.online",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "5pel5pysR01PMijlgI3njoc6MC43KQ",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "日本GMO3(倍率:0.7)",
-			"id" : "3EE7DCCF267930236720A27B7A34689B",
-			"server" : "jp.gmo3.ccddns.online",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "5pel5pysR01PMyjlgI3njoc6MC43KQ",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "日本GMO4(倍率:0.7)",
-			"id" : "876F30ADE53A2BE4DB45F0BDB7B7F858",
-			"server" : "jp.gmo4.ccddns.online",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "5pel5pysR01PNCjlgI3njoc6MC43KQ",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "日本GMO5(倍率:0.7)",
-			"id" : "B371988AACB8CA16965A6F873FD5FCC0",
-			"server" : "jp.gmo5.ccddns.online",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "5pel5pysR01PNSjlgI3njoc6MC43KQ",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本IDCF(倍率:0.8)",
@@ -844,7 +682,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本IDCF11(倍率:0.8)",
@@ -862,7 +700,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本IDCF2(倍率:0.8)",
@@ -880,7 +718,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本IDCF3(倍率:0.8)",
@@ -898,7 +736,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本IDCF4(倍率:0.8)",
@@ -916,7 +754,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本IDCF5(倍率:0.8)",
@@ -934,7 +772,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本IDCF6(倍率:0.8)",
@@ -952,7 +790,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本IDCF7(倍率:0.8)",
@@ -970,7 +808,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本IDCF8(倍率:0.8)",
@@ -988,7 +826,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本IDCF9(倍率:0.8)",
@@ -1006,7 +844,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本M247(10Gbps)(倍率:0.7)",
@@ -1024,7 +862,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本NTT(倍率:0.6)",
@@ -1042,7 +880,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "日本Webarena(倍率:0.5)",
@@ -1060,7 +898,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "深港专线转HGC(倍率:2.5)",
@@ -1078,10 +916,10 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 54
 		},
 		{
-			"remarks" : "深港专线转香港WTT(倍率:1.5)",
+			"remarks" : "深港专线转香港WTT(倍率:2.5)",
 			"id" : "CB71CB6546748BD826B13E5291D0BBBF",
 			"server" : "hk.iepl-wtt.ccddns.online",
 			"server_port" : 33283,
@@ -1092,11 +930,11 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5rex5riv5LiT57q_6L2s6aaZ5rivV1RUKOWAjeeOhzoxLjUp",
+			"remarks_base64" : "5rex5riv5LiT57q_6L2s6aaZ5rivV1RUKOWAjeeOhzoyLjUp",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 51
 		},
 		{
 			"remarks" : "深港专线转香港icable(1Gbps)(倍率:2.5)",
@@ -1114,10 +952,10 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "深港临时专线(请直接连接)(倍率:1.5)",
+			"remarks" : "深港临时专线(请直接连接)(倍率:2.5)",
 			"id" : "F1447EAD44089F31D67B64E353077AD3",
 			"server" : "183.61.251.119",
 			"server_port" : 33283,
@@ -1128,11 +966,11 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "5rex5riv5Li05pe25LiT57q_KOivt-ebtOaOpei_nuaOpSko5YCN546HOjEuNSk",
+			"remarks_base64" : "5rex5riv5Li05pe25LiT57q_KOivt-ebtOaOpei_nuaOpSko5YCN546HOjIuNSk",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "深港转HKTH打机神线(倍率:2.5)",
@@ -1150,7 +988,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 50
 		},
 		{
 			"remarks" : "深港转香港LS(倍率:2.5)",
@@ -1168,7 +1006,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 44
 		},
 		{
 			"remarks" : "美国AWS(倍率:0.5)",
@@ -1186,7 +1024,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国CC(倍率:0.5)",
@@ -1204,7 +1042,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国DO(倍率:0.5)",
@@ -1222,7 +1060,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国DS(倍率:0.5)",
@@ -1240,7 +1078,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国DS2(倍率:0.5)",
@@ -1258,7 +1096,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国DS3(倍率:0.5)",
@@ -1276,7 +1114,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国DS4(倍率:0.5)",
@@ -1294,7 +1132,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国DS5(倍率:0.5)",
@@ -1312,7 +1150,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国EN(倍率:0.7)",
@@ -1330,7 +1168,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国EN2(倍率:0.7)",
@@ -1348,7 +1186,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国EN3(倍率:0.7)",
@@ -1366,7 +1204,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国EN4(倍率:0.7)",
@@ -1384,7 +1222,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国EN5(倍率:0.7)",
@@ -1402,7 +1240,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国EN6(倍率:0.7)",
@@ -1420,7 +1258,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GF(倍率:0.6)",
@@ -1438,7 +1276,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GF2(倍率:0.6)",
@@ -1456,7 +1294,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GF3(倍率:0.6)",
@@ -1474,7 +1312,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GF4(倍率:0.6)",
@@ -1492,7 +1330,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GF5(倍率:0.6)",
@@ -1510,7 +1348,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIA11(倍率:0.8)",
@@ -1528,7 +1366,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIA12(倍率:0.8)",
@@ -1546,7 +1384,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 171
 		},
 		{
 			"remarks" : "美国GIA13(倍率:0.8)",
@@ -1564,7 +1402,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 172
 		},
 		{
 			"remarks" : "美国GIA14(倍率:0.8)",
@@ -1582,7 +1420,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIA15(倍率:0.8)",
@@ -1600,7 +1438,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIA16(倍率:0.8)",
@@ -1618,7 +1456,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 214
 		},
 		{
 			"remarks" : "美国GIA17(倍率:0.8)",
@@ -1636,7 +1474,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIA18(倍率:0.8)",
@@ -1654,7 +1492,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIA19(倍率:0.8)",
@@ -1672,7 +1510,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIA20(倍率:0.8)",
@@ -1690,7 +1528,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIA21(倍率:0.8)",
@@ -1708,7 +1546,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIA22(倍率:0.8)",
@@ -1726,7 +1564,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIA23(倍率:0.8)",
@@ -1744,25 +1582,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "美国GIA24(倍率:0.8)",
-			"id" : "77D5B44E68BB9FAC27CEA4BC31B7F8D6",
-			"server" : "154.95.1.21",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "576O5Zu9R0lBMjQo5YCN546HOjAuOCk",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIAD1(倍率:0.8)",
@@ -1780,7 +1600,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIAD10(倍率:0.8)",
@@ -1798,7 +1618,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIAD11(倍率:0.8)",
@@ -1816,7 +1636,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIAD12(倍率:0.8)",
@@ -1834,7 +1654,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIAD2(倍率:0.8)",
@@ -1852,7 +1672,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIAD3(倍率:0.8)",
@@ -1870,7 +1690,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIAD4(倍率:0.8)",
@@ -1888,7 +1708,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIAD5(倍率:0.8)",
@@ -1906,7 +1726,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIAD6(倍率:0.8)",
@@ -1924,7 +1744,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 181
 		},
 		{
 			"remarks" : "美国GIAD7(倍率:0.8)",
@@ -1942,7 +1762,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 187
 		},
 		{
 			"remarks" : "美国GIAD8(倍率:0.8)",
@@ -1960,7 +1780,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国GIAD9(倍率:0.8)",
@@ -1978,7 +1798,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国HE(落地推荐)(倍率:0.6)",
@@ -1996,25 +1816,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "美国HE2(落地推荐)(倍率:0.6)",
-			"id" : "50F2A21FDB6955495500AA45EABCDCD5",
-			"server" : "65.49.71.109",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "576O5Zu9SEUyKOiQveWcsOaOqOiNkCko5YCN546HOjAuNik",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国KT(倍率:0.6)",
@@ -2032,7 +1834,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国KT2(倍率:0.6)",
@@ -2050,7 +1852,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国MC(倍率:0.6)",
@@ -2068,7 +1870,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国MC2(倍率:0.6)",
@@ -2086,7 +1888,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国MC3(倍率:0.6)",
@@ -2104,7 +1906,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国MC4(倍率:0.6)",
@@ -2122,7 +1924,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国MC5(倍率:0.6)",
@@ -2140,7 +1942,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QN(倍率:0.6)",
@@ -2158,7 +1960,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QN2(倍率:0.6)",
@@ -2176,25 +1978,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "美国QN3(倍率:0.6)",
-			"id" : "9FED24DF8BDCB256101FECB17A2760F5",
-			"server" : "66.212.31.20",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "576O5Zu9UU4zKOWAjeeOhzowLjYp",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QN4(倍率:0.6)",
@@ -2212,25 +1996,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "美国QN5(倍率:0.6)",
-			"id" : "860FE73E3BB2B4913E0E180962243D61",
-			"server" : "66.212.31.22",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "576O5Zu9UU41KOWAjeeOhzowLjYp",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QNC1(倍率:0.6)",
@@ -2248,7 +2014,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QNC2(倍率:0.6)",
@@ -2266,7 +2032,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QNC3(倍率:0.6)",
@@ -2284,7 +2050,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QNC4(倍率:0.6)",
@@ -2302,7 +2068,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QNC5(倍率:0.6)",
@@ -2320,7 +2086,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QP(倍率:0.5)",
@@ -2338,7 +2104,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QP3(倍率:0.5)",
@@ -2356,7 +2122,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QP5(倍率:0.5)",
@@ -2374,7 +2140,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国RN(倍率:0.7)",
@@ -2392,7 +2158,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国XS(倍率:0.4)",
@@ -2410,7 +2176,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国安畅12(倍率:0.8)",
@@ -2428,7 +2194,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国安畅14(倍率:0.8)",
@@ -2446,7 +2212,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国安畅16(倍率:0.8)",
@@ -2464,7 +2230,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 312
 		},
 		{
 			"remarks" : "美国安畅18(倍率:0.8)",
@@ -2482,7 +2248,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国安畅2(倍率:0.8)",
@@ -2500,7 +2266,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国安畅4(倍率:0.8)",
@@ -2518,7 +2284,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 178
 		},
 		{
 			"remarks" : "美国安畅6(倍率:0.8)",
@@ -2536,7 +2302,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "镇江联通(倍率:1)",
@@ -2554,25 +2320,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "韩国AWS(倍率:0.5)",
-			"id" : "A4A0743AC6D55B4D6A046C405EEAD6CE",
-			"server" : "kr.aws.ccddns.online",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "6Z-p5Zu9QVdTKOWAjeeOhzowLjUp",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 46
 		},
 		{
 			"remarks" : "韩国Azure(倍率:1)",
@@ -2590,7 +2338,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "韩国Azure2(倍率:1)",
@@ -2608,7 +2356,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港Azure(倍率:1)",
@@ -2626,7 +2374,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港Azure2(倍率:1)",
@@ -2644,7 +2392,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港Azure3(倍率:1)",
@@ -2662,7 +2410,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港Azure4(倍率:1)",
@@ -2680,7 +2428,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港Azure5(倍率:1)",
@@ -2698,7 +2446,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港Azure6(倍率:1)",
@@ -2716,7 +2464,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港Azure转香港HGC(Azure端免费请直接连接)(倍率:0)",
@@ -2734,7 +2482,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港Azure转香港HKT2(Azure端免费请直接连接)(倍率:0)",
@@ -2752,43 +2500,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "香港Azure转香港HKTA(Azure端免费请直接连接)(倍率:0)",
-			"id" : "8154B921BE1920EB5F043061DD6FFC46",
-			"server" : "13.94.59.222",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "6aaZ5rivQXp1cmXovazpppnmuK9IS1RBKEF6dXJl56uv5YWN6LS56K-355u05o6l6L-e5o6lKSjlgI3njoc6MCk",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "香港HGC4(倍率:0.7)",
-			"id" : "BF7CC3F613756312304B450A013478DC",
-			"server" : "hk.hgc4.ccddns.online",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "6aaZ5rivSEdDNCjlgI3njoc6MC43KQ",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港HKBN(倍率:0.7)",
@@ -2806,7 +2518,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港HKBN3(倍率:0.7)",
@@ -2824,7 +2536,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港HKT11(倍率:0.7)",
@@ -2842,7 +2554,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港HKT2(倍率:0.7)",
@@ -2860,7 +2572,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港HKT7(倍率:0.7)",
@@ -2878,25 +2590,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "香港HKTA打机神线(倍率:0.7)",
-			"id" : "C6536557CB91CEE5845725C85EB0F63E",
-			"server" : "cchkta.ccddns.online",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "6aaZ5rivSEtUQeaJk-acuuelnue6vyjlgI3njoc6MC43KQ",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "香港HKTC打机神线(倍率:0.7)",
@@ -2914,61 +2608,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "香港HKTG打机神线(倍率:0.7)",
-			"id" : "1EA4A6E1D2C4EB3DFF09C0E45FB35653",
-			"server" : "cchktg.hv662s.ccddns.online",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "6aaZ5rivSEtUR-aJk-acuuelnue6vyjlgI3njoc6MC43KQ",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "香港阿里云5(倍率:1)",
-			"id" : "38410588BA87A03D85026D41F8CF58C2",
-			"server" : "hk.ali5.b66g3f.ccddns.online",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "6aaZ5riv6Zi_6YeM5LqRNSjlgI3njoc6MSk",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "美国QN10(倍率:0.6)",
-			"id" : "133BD082DC4409B65FFAC1D909379F8C",
-			"server" : "66.212.31.70",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "576O5Zu9UU4xMCjlgI3njoc6MC42KQ",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QN6(倍率:0.6)",
@@ -2986,25 +2626,7 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
-		},
-		{
-			"remarks" : "美国QN7(倍率:0.6)",
-			"id" : "A4C0A4D50974EA978538704FBD425907",
-			"server" : "66.212.31.67",
-			"server_port" : 33283,
-			"server_udp_port" : 0,
-			"password" : "rBOXgu",
-			"method" : "aes-128-ctr",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "",
-			"obfs" : "http_simple",
-			"obfsparam" : "",
-			"remarks_base64" : "576O5Zu9UU43KOWAjeeOhzowLjYp",
-			"group" : "CordCloud",
-			"enable" : true,
-			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
 			"remarks" : "美国QN8(倍率:0.6)",
@@ -3022,12 +2644,12 @@
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : -2
 		},
 		{
-			"remarks" : "美国QN9(倍率:0.6)",
-			"id" : "47F02B326C52A1C46023E3C13BFD4203",
-			"server" : "66.212.31.69",
+			"remarks" : "深港专线转香港HKTA打机神线(倍率:2.5)",
+			"id" : "7BA6F26DCDB74DDB9DD5B609238237C8",
+			"server" : "hk.iepl-bgp.ccddns.online",
 			"server_port" : 33283,
 			"server_udp_port" : 0,
 			"password" : "rBOXgu",
@@ -3036,16 +2658,376 @@
 			"protocolparam" : "",
 			"obfs" : "http_simple",
 			"obfsparam" : "",
-			"remarks_base64" : "576O5Zu9UU45KOWAjeeOhzowLjYp",
+			"remarks_base64" : "5rex5riv5LiT57q_6L2s6aaZ5rivSEtUQeaJk-acuuelnue6vyjlgI3njoc6Mi41KQ",
 			"group" : "CordCloud",
 			"enable" : true,
 			"udp_over_tcp" : false,
-			"latency" : -1
+			"latency" : 53
+		},
+		{
+			"remarks" : "美国RN2(倍率:0.7)",
+			"id" : "1A73228FE8AEE6B029C0F4B09548BCCD",
+			"server" : "96.43.93.90",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "576O5Zu9Uk4yKOWAjeeOhzowLjcp",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "深港专线转HGC2(倍率:2.5)",
+			"id" : "753AEB9DF42AF29A98A60778D661A556",
+			"server" : "183.61.251.106",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5rex5riv5LiT57q_6L2sSEdDMijlgI3njoc6Mi41KQ",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : 47
+		},
+		{
+			"remarks" : "深港转香港LS2(倍率:2.5)",
+			"id" : "0457DC16BA8D851B55385E9419911BD8",
+			"server" : "14.17.95.121",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5rex5riv6L2s6aaZ5rivTFMyKOWAjeeOhzoyLjUp",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "德国TL4(倍率:0.6)",
+			"id" : "99F4A86BC77190A449C72844FADF53D0",
+			"server" : "194.99.22.165",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5b635Zu9VEw0KOWAjeeOhzowLjYp",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "上海CN2转日本M247隧道测试(倍率:0.7)",
+			"id" : "74CDFF628FAF2224DB505B229D6C51F2",
+			"server" : "cn.shcn2.ccddns.online",
+			"server_port" : 58284,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5LiK5rW3Q04y6L2s5pel5pysTTI0N-map-mBk-a1i-ivlSjlgI3njoc6MC43KQ",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "上海联通转美国GIA隧道测试(倍率:0.8)",
+			"id" : "981D3573BC3FA10A44AD19EAF0F2B443",
+			"server" : "cn.shun.ccddns.online",
+			"server_port" : 58284,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5LiK5rW36IGU6YCa6L2s576O5Zu9R0lB6Zqn6YGT5rWL6K-VKOWAjeeOhzowLjgp",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : 82
+		},
+		{
+			"remarks" : "俄罗斯伯力10(倍率:0.7)",
+			"id" : "80D46E8B05943A4EC20D92007E3EF1E8",
+			"server" : "92.223.80.170",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5L-E572X5pav5Lyv5YqbMTAo5YCN546HOjAuNyk",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "俄罗斯伯力6(倍率:0.7)",
+			"id" : "8C294E36CC674E4A04624A21680670E2",
+			"server" : "92.223.80.89",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5L-E572X5pav5Lyv5YqbNijlgI3njoc6MC43KQ",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "俄罗斯伯力7(倍率:0.7)",
+			"id" : "D6B6160DD1BFDCDD9824B47A8CC67A1F",
+			"server" : "92.223.80.96",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5L-E572X5pav5Lyv5YqbNyjlgI3njoc6MC43KQ",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "俄罗斯伯力8(倍率:0.7)",
+			"id" : "AF95857FFB15409E8C562EF737EE4BD4",
+			"server" : "92.223.80.99",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5L-E572X5pav5Lyv5YqbOCjlgI3njoc6MC43KQ",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "俄罗斯伯力9(倍率:0.7)",
+			"id" : "202A66891FA45275977D703C34933B19",
+			"server" : "92.223.80.122",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5L-E572X5pav5Lyv5YqbOSjlgI3njoc6MC43KQ",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "俄罗斯莫斯科(倍率:0.5)",
+			"id" : "05BE6E4B03809C160840D849E2BCC1B2",
+			"server" : "ru.mel.ccddns.online",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5L-E572X5pav6I6r5pav56eRKOWAjeeOhzowLjUp",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "台湾Hinet20(倍率:0.9)",
+			"id" : "1D9FABEFBF7D6BC4F2DB34AB960D0E23",
+			"server" : "tw.hinet20.ccddns.online",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5Y-w5rm-SGluZXQyMCjlgI3njoc6MC45KQ",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "新加坡Azure2(2Gbps)(倍率:1)",
+			"id" : "CC59128558517493F7F8E16C819CFC9A",
+			"server" : "13.76.249.59",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5paw5Yqg5Z2hQXp1cmUyKDJHYnBzKSjlgI3njoc6MSk",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "日本Azure3(2Gbps)(倍率:1)",
+			"id" : "DDB82DE009DB554167C10301243E806B",
+			"server" : "104.41.174.208",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5pel5pysQXp1cmUzKDJHYnBzKSjlgI3njoc6MSk",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "日本GMO(倍率:0.7)",
+			"id" : "91776F74BB5BFBCE838515E4EC1A11B5",
+			"server" : "jp.gmo.ccddns.online",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5pel5pysR01PKOWAjeeOhzowLjcp",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "深港专线转香港CI(倍率:2.5)",
+			"id" : "2FAE725EE4F9B7E43F433BB1D8B20E96",
+			"server" : "14.17.95.123",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5rex5riv5LiT57q_6L2s6aaZ5rivQ0ko5YCN546HOjIuNSk",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
+		},
+		{
+			"remarks" : "深港专线转香港HGC4(倍率:2.5)",
+			"id" : "87A48570EFA7681C42176E8C1555C443",
+			"server" : "hk.iepl-hkt2.ccddns.online",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5rex5riv5LiT57q_6L2s6aaZ5rivSEdDNCjlgI3njoc6Mi41KQ",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : 46
+		},
+		{
+			"remarks" : "镇江联通转俄罗斯伯力隧道测试(倍率:0.8)",
+			"id" : "32D155D8F4FE5D3324EC289F1887F292",
+			"server" : "103.56.62.134",
+			"server_port" : 58284,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "6ZWH5rGf6IGU6YCa6L2s5L-E572X5pav5Lyv5Yqb6Zqn6YGT5rWL6K-VKOWAjeeOhzowLjgp",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : 47
+		},
+		{
+			"remarks" : "韩国Azure3(2Gbps)(倍率:1)",
+			"id" : "CCD2A9796BA069E12EE5B3EF5628CD3B",
+			"server" : "52.231.13.211",
+			"server_port" : 33283,
+			"server_udp_port" : 0,
+			"password" : "rBOXgu",
+			"method" : "aes-128-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "6Z-p5Zu9QXp1cmUzKDJHYnBzKSjlgI3njoc6MSk",
+			"group" : "CordCloud",
+			"enable" : true,
+			"udp_over_tcp" : false,
+			"latency" : -2
 		}
 	],
-	"index" : 59,
+	"index" : 50,
 	"random" : false,
-	"sysProxyMode" : 3,
+	"sysProxyMode" : 1,
 	"shareOverLan" : false,
 	"localPort" : 1080,
 	"localAuthPassword" : "yTsaIWTfMFU1Zw2oli2y",
@@ -3076,7 +3058,7 @@
 		{
 			"URL" : "https://www.cordcord.xyz/link/GIKlnNbw0UaTEtgH?mu=0",
 			"Group" : "CordCloud",
-			"LastUpdateTime" : 1579196884
+			"LastUpdateTime" : 1582196414
 		}
 	],
 	"token" : {
