@@ -1,0 +1,759 @@
+[2020-02-18 17:47:52] ShadowsocksR started on port 1080
+[2020-02-18 17:47:53] [Info] DNS query d.docs.live.net answer 13.107.42.12
+[2020-02-18 17:47:53] [Info] Connect d.docs.live.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:47:53] [Info] DNS nolock query d.docs.live.net answer 13.107.42.12
+[2020-02-18 17:47:53] [Info] DNS query hk.iepl-hgc.ccddns.online answer 14.17.95.113
+[2020-02-18 17:47:57] [Info] DNS query raw.githubusercontent.com answer 151.101.228.133
+[2020-02-18 17:47:57] [Info] Connect raw.githubusercontent.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:47:57] [Info] DNS nolock query raw.githubusercontent.com answer 151.101.228.133
+[2020-02-18 17:48:01] [Info] DNS query www.google.com answer 69.171.224.40
+[2020-02-18 17:48:01] [Info] Connect www.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:01] [Info] DNS nolock query www.google.com answer 69.171.224.40
+[2020-02-18 17:48:01] [Info] DNS query fonts.googleapis.com answer 203.208.43.73
+[2020-02-18 17:48:01] [Info] Direct connect fonts.googleapis.com:443
+[2020-02-18 17:48:01] [Info] DNS query lh3.googleusercontent.com answer 172.217.27.129
+[2020-02-18 17:48:01] [Info] Connect lh3.googleusercontent.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:01] [Info] DNS nolock query lh3.googleusercontent.com answer 172.217.27.129
+[2020-02-18 17:48:01] [Info] DNS query www.gstatic.com answer 203.208.50.175
+[2020-02-18 17:48:01] [Info] Direct connect www.gstatic.com:443
+[2020-02-18 17:48:01] [Info] DNS query www.cordcord.xyz answer 104.16.24.4
+[2020-02-18 17:48:01] [Info] Connect www.cordcord.xyz:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:01] [Info] DNS nolock query www.cordcord.xyz answer 104.16.24.4
+[2020-02-18 17:48:02] [Info] DNS query fonts.gstatic.com answer 203.208.41.119
+[2020-02-18 17:48:02] [Info] Direct connect fonts.gstatic.com:443
+[2020-02-18 17:48:02] [Info] DNS query www.baidu.com answer 14.215.177.38
+[2020-02-18 17:48:02] [Info] DNS query www.baidu.com answer 14.215.177.38
+[2020-02-18 17:48:02] [Info] Direct connect www.baidu.com:443
+[2020-02-18 17:48:02] [Info] Direct connect www.baidu.com:443
+[2020-02-18 17:48:02] [Info] DNS query clients1.google.com answer 216.58.200.46
+[2020-02-18 17:48:02] [Info] Connect clients1.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:02] [Info] DNS nolock query clients1.google.com answer 216.58.200.46
+[2020-02-18 17:48:02] [Info] DNS query sp1.baidu.com answer 14.215.177.38
+[2020-02-18 17:48:02] [Info] Direct connect sp1.baidu.com:443
+[2020-02-18 17:48:04] [Info] DNS query imgstat.baidu.com answer 180.97.36.16
+[2020-02-18 17:48:04] [Info] DNS query imgstat.baidu.com answer 180.97.36.16
+[2020-02-18 17:48:04] [Info] Direct connect imgstat.baidu.com:443
+[2020-02-18 17:48:04] [Info] Direct connect imgstat.baidu.com:443
+[2020-02-18 17:48:07] [Info] DNS query translate.google.cn answer 203.208.40.88
+[2020-02-18 17:48:07] [Info] Direct connect translate.google.cn:443
+[2020-02-18 17:48:08] [Info] DNS query www.google-analytics.com answer 203.208.41.68
+[2020-02-18 17:48:08] [Info] Direct connect www.google-analytics.com:443
+[2020-02-18 17:48:08] [Info] DNS query www.gstatic.cn answer 203.208.40.87
+[2020-02-18 17:48:08] [Info] Direct connect www.gstatic.cn:443
+[2020-02-18 17:48:08] [Info] DNS query ogs.google.com answer 216.58.200.238
+[2020-02-18 17:48:08] [Info] Connect ogs.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:08] [Info] DNS nolock query ogs.google.com answer 216.58.200.238
+[2020-02-18 17:48:08] [Info] DNS query apis.google.com answer 216.58.200.238
+[2020-02-18 17:48:08] [Info] DNS query apis.google.com answer 216.58.200.238
+[2020-02-18 17:48:08] [Info] Connect apis.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:08] [Info] DNS nolock query apis.google.com answer 216.58.200.238
+[2020-02-18 17:48:08] [Info] Connect apis.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:08] [Info] DNS nolock query apis.google.com answer 216.58.200.238
+[2020-02-18 17:48:09] [Info] DNS query ssl.gstatic.com answer 203.208.41.63
+[2020-02-18 17:48:09] [Info] DNS query ssl.gstatic.com answer 203.208.41.63
+[2020-02-18 17:48:09] [Info] DNS query ssl.gstatic.com answer 203.208.41.63
+[2020-02-18 17:48:09] [Info] Direct connect ssl.gstatic.com:443
+[2020-02-18 17:48:09] [Info] Direct connect ssl.gstatic.com:443
+[2020-02-18 17:48:09] [Info] DNS query ssl.gstatic.com answer 203.208.41.63
+[2020-02-18 17:48:09] [Info] Direct connect ssl.gstatic.com:443
+[2020-02-18 17:48:09] [Info] Direct connect ssl.gstatic.com:443
+[2020-02-18 17:48:09] [Info] Direct connect ssl.gstatic.com:443
+[2020-02-18 17:48:09] [Info] Direct connect ssl.gstatic.com:443
+[2020-02-18 17:48:09] [Info] Disconnect 216.58.200.238:443
+[2020-02-18 17:48:09] [Info] DNS query accounts.google.com answer 172.217.160.77
+[2020-02-18 17:48:09] [Info] Connect accounts.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:09] [Info] DNS nolock query accounts.google.com answer 172.217.160.77
+[2020-02-18 17:48:09] [Info] Direct connect ssl.gstatic.com:443
+[2020-02-18 17:48:09] [Info] DNS query play.google.com answer 172.217.160.78
+[2020-02-18 17:48:09] [Info] Connect play.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:09] [Info] DNS nolock query play.google.com answer 172.217.160.78
+[2020-02-18 17:48:09] [Info] Connect play.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:09] [Info] DNS nolock query play.google.com answer 172.217.160.78
+[2020-02-18 17:48:11] [Info] Connect clients1.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:11] [Info] DNS nolock query clients1.google.com answer 216.58.200.46
+[2020-02-18 17:48:21] [Info] DNS query wp.mail.qq.com answer 219.133.60.209
+[2020-02-18 17:48:21] [Info] Direct connect wp.mail.qq.com:443
+[2020-02-18 17:48:24] [Info] DNS query translate.googleapis.com answer 203.208.41.33
+[2020-02-18 17:48:24] [Info] Direct connect translate.googleapis.com:443
+[2020-02-18 17:48:34] [Info] Connect www.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:34] [Info] DNS nolock query www.google.com answer 69.171.224.40
+[2020-02-18 17:48:35] [Info] DNS query ocsp.pki.goog answer 203.208.50.120
+[2020-02-18 17:48:35] [Info] Direct connect ocsp.pki.goog:80
+[2020-02-18 17:48:35] [Info] Direct connect ssl.gstatic.com:443
+[2020-02-18 17:48:35] [Info] Connect lh3.googleusercontent.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:35] [Info] DNS nolock query lh3.googleusercontent.com answer 172.217.27.129
+[2020-02-18 17:48:35] [Info] DNS query id.google.com answer 172.217.24.3
+[2020-02-18 17:48:35] [Info] Connect id.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:35] [Info] DNS nolock query id.google.com answer 172.217.24.3
+[2020-02-18 17:48:35] [Info] DNS query firefox.settings.services.mozilla.com answer 99.84.55.107
+[2020-02-18 17:48:35] [Info] DNS query firefox.settings.services.mozilla.com answer 99.84.55.107
+[2020-02-18 17:48:35] [Info] Connect firefox.settings.services.mozilla.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:35] [Info] DNS nolock query firefox.settings.services.mozilla.com answer 99.84.55.107
+[2020-02-18 17:48:35] [Info] Connect firefox.settings.services.mozilla.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:35] [Info] DNS nolock query firefox.settings.services.mozilla.com answer 99.84.55.107
+[2020-02-18 17:48:35] [Info] DNS query firefox.settings.services.mozilla.com answer 99.84.55.107
+[2020-02-18 17:48:35] [Info] Connect firefox.settings.services.mozilla.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:35] [Info] DNS nolock query firefox.settings.services.mozilla.com answer 99.84.55.107
+[2020-02-18 17:48:35] [Info] Direct connect ocsp.pki.goog:80
+[2020-02-18 17:48:35] [Info] DNS query firefox.settings.services.mozilla.com answer 99.84.55.107
+[2020-02-18 17:48:35] [Info] Connect firefox.settings.services.mozilla.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:35] [Info] DNS nolock query firefox.settings.services.mozilla.com answer 99.84.55.107
+[2020-02-18 17:48:35] [Info] Direct connect www.gstatic.com:443
+[2020-02-18 17:48:36] [Info] DNS query clients5.google.com answer 216.58.200.46
+[2020-02-18 17:48:36] [Info] Connect clients5.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:36] [Info] DNS nolock query clients5.google.com answer 216.58.200.46
+[2020-02-18 17:48:36] [Info] Disconnect 99.84.55.107:443
+[2020-02-18 17:48:36] [Info] Disconnect 99.84.55.107:443
+[2020-02-18 17:48:36] [Info] DNS query adservice.google.com answer 203.208.41.77
+[2020-02-18 17:48:36] [Info] Direct connect adservice.google.com:443
+[2020-02-18 17:48:36] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:48:36] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:48:36] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:48:36] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:48:36] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:48:36] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:48:36] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:48:36] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:48:36] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:48:36] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:48:36] [Info] Connect accounts.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:36] [Info] DNS nolock query accounts.google.com answer 172.217.160.77
+[2020-02-18 17:48:37] [Info] Direct connect ocsp.pki.goog:80
+[2020-02-18 17:48:37] [Info] DNS query googleads.g.doubleclick.net answer 203.208.40.109
+[2020-02-18 17:48:37] [Info] Direct connect googleads.g.doubleclick.net:443
+[2020-02-18 17:48:40] [Info] Connect ogs.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:40] [Info] DNS nolock query ogs.google.com answer 216.58.200.238
+[2020-02-18 17:48:40] [Info] Connect ogs.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:40] [Info] DNS nolock query ogs.google.com answer 216.58.200.238
+[2020-02-18 17:48:40] [Info] Connect ogs.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:40] [Info] DNS nolock query ogs.google.com answer 216.58.200.238
+[2020-02-18 17:48:40] [Info] Direct connect ssl.gstatic.com:443
+[2020-02-18 17:48:40] [Info] Direct connect ssl.gstatic.com:443
+[2020-02-18 17:48:40] [Info] Connect apis.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:40] [Info] DNS nolock query apis.google.com answer 216.58.200.238
+[2020-02-18 17:48:40] [Info] Direct connect ocsp.pki.goog:80
+[2020-02-18 17:48:41] [Info] Connect play.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:41] [Info] DNS nolock query play.google.com answer 172.217.160.78
+[2020-02-18 17:48:41] [Info] Connect play.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:41] [Info] DNS nolock query play.google.com answer 172.217.160.78
+[2020-02-18 17:48:41] [Info] Disconnect 216.58.200.238:443
+[2020-02-18 17:48:47] [Info] Connect clients5.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:48:47] [Info] DNS nolock query clients5.google.com answer 216.58.200.46
+[2020-02-18 17:48:48] [Info] Direct connect adservice.google.com:443
+[2020-02-18 17:48:48] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:48:48] [Info] Direct connect googleads.g.doubleclick.net:443
+[2020-02-18 17:49:15] [Info] DNS query google.cn answer 203.208.41.56
+[2020-02-18 17:49:15] [Info] Direct connect google.cn:443
+[2020-02-18 17:49:15] [Info] DNS query google.com answer 172.217.24.14
+[2020-02-18 17:49:15] [Info] Connect google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:15] [Info] DNS nolock query google.com answer 172.217.24.14
+[2020-02-18 17:49:34] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 17:49:35] [Info] DNS query www.imf.org answer 173.223.107.9
+[2020-02-18 17:49:35] [Info] DNS query www.imf.org answer 173.223.107.9
+[2020-02-18 17:49:35] [Info] Connect www.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:35] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 17:49:35] [Info] Connect www.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:35] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 17:49:35] [Info] DNS query assets.adobedtm.com answer 96.16.173.106
+[2020-02-18 17:49:35] [Info] Connect assets.adobedtm.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:35] [Info] DNS nolock query assets.adobedtm.com answer 96.16.173.106
+[2020-02-18 17:49:35] [Info] Disconnect 173.223.107.9:443
+[2020-02-18 17:49:35] [Info] DNS query hello.myfonts.net answer 31.13.80.17
+[2020-02-18 17:49:35] [Info] Connect hello.myfonts.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:35] [Info] DNS nolock query hello.myfonts.net answer 31.13.80.17
+[2020-02-18 17:49:35] [Info] DNS query players.brightcove.net answer 96.16.173.179
+[2020-02-18 17:49:35] [Info] Connect players.brightcove.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:35] [Info] DNS nolock query players.brightcove.net answer 96.16.173.179
+[2020-02-18 17:49:35] [Info] DNS query ajax.googleapis.com answer 172.217.160.106
+[2020-02-18 17:49:35] [Info] Connect ajax.googleapis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:35] [Info] DNS nolock query ajax.googleapis.com answer 172.217.160.106
+[2020-02-18 17:49:36] [Info] DNS query s7.addthis.com answer 84.53.135.137
+[2020-02-18 17:49:36] [Info] Connect s7.addthis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:36] [Info] DNS nolock query s7.addthis.com answer 84.53.135.137
+[2020-02-18 17:49:36] [Info] DNS query code.jquery.com answer 209.197.3.24
+[2020-02-18 17:49:36] [Info] Connect code.jquery.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:36] [Info] DNS nolock query code.jquery.com answer 209.197.3.24
+[2020-02-18 17:49:36] [Info] DNS query vjs.zencdn.net answer 151.101.230.217
+[2020-02-18 17:49:36] [Info] Connect vjs.zencdn.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:36] [Info] DNS nolock query vjs.zencdn.net answer 151.101.230.217
+[2020-02-18 17:49:36] [Info] DNS query edge.api.brightcove.com answer 13.224.154.122
+[2020-02-18 17:49:36] [Info] Connect edge.api.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:36] [Info] DNS nolock query edge.api.brightcove.com answer 13.224.154.122
+[2020-02-18 17:49:36] [Info] DNS query metrics.brightcove.com answer 35.244.232.184
+[2020-02-18 17:49:36] [Info] Connect metrics.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:36] [Info] DNS nolock query metrics.brightcove.com answer 35.244.232.184
+[2020-02-18 17:49:36] [Info] Connect edge.api.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:36] [Info] DNS nolock query edge.api.brightcove.com answer 13.224.154.122
+[2020-02-18 17:49:37] [Info] Connect edge.api.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query edge.api.brightcove.com answer 13.224.154.122
+[2020-02-18 17:49:37] [Info] Disconnect 209.197.3.24:443
+[2020-02-18 17:49:37] [Info] Disconnect 96.16.173.179:443
+[2020-02-18 17:49:37] [Info] Disconnect 151.101.230.217:443
+[2020-02-18 17:49:37] [Info] Disconnect 96.16.173.106:443
+[2020-02-18 17:49:37] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 17:49:37] [Info] Disconnect 216.58.200.46:443
+[2020-02-18 17:49:37] [Info] Disconnect 172.217.24.14:443
+[2020-02-18 17:49:37] [Info] Disconnect 216.58.200.238:443
+[2020-02-18 17:49:37] [Info] Disconnect 216.58.200.238:443
+[2020-02-18 17:49:37] [Info] Disconnect 216.58.200.46:443
+[2020-02-18 17:49:37] [Info] Disconnect 69.171.224.40:443
+[2020-02-18 17:49:37] [Info] Disconnect 172.217.160.106:443
+[2020-02-18 17:49:37] [Info] Disconnect 31.13.80.17:443
+[2020-02-18 17:49:37] [Info] Disconnect 172.217.27.129:443
+[2020-02-18 17:49:37] [Info] Connect metrics.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query metrics.brightcove.com answer 35.244.232.184
+[2020-02-18 17:49:37] [Info] Connect metrics.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query metrics.brightcove.com answer 35.244.232.184
+[2020-02-18 17:49:37] [Info] DNS query gateway.foresee.com answer 13.35.67.41
+[2020-02-18 17:49:37] [Info] Connect gateway.foresee.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query gateway.foresee.com answer 13.35.67.41
+[2020-02-18 17:49:37] [Info] Connect metrics.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query metrics.brightcove.com answer 35.244.232.184
+[2020-02-18 17:49:37] [Info] DNS query z.moatads.com answer 96.16.174.85
+[2020-02-18 17:49:37] [Info] Connect z.moatads.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query z.moatads.com answer 96.16.174.85
+[2020-02-18 17:49:37] [Info] Connect metrics.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query metrics.brightcove.com answer 35.244.232.184
+[2020-02-18 17:49:37] [Info] Connect metrics.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query metrics.brightcove.com answer 35.244.232.184
+[2020-02-18 17:49:37] [Info] Connect s7.addthis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query s7.addthis.com answer 84.53.135.137
+[2020-02-18 17:49:37] [Info] Connect s7.addthis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query s7.addthis.com answer 84.53.135.137
+[2020-02-18 17:49:37] [Info] Connect assets.adobedtm.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query assets.adobedtm.com answer 96.16.173.106
+[2020-02-18 17:49:37] [Info] Connect assets.adobedtm.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query assets.adobedtm.com answer 96.16.173.106
+[2020-02-18 17:49:37] [Info] DNS query v1.addthisedge.com answer 84.53.135.137
+[2020-02-18 17:49:37] [Info] Connect v1.addthisedge.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query v1.addthisedge.com answer 84.53.135.137
+[2020-02-18 17:49:37] [Info] DNS query m.addthis.com answer 84.53.135.137
+[2020-02-18 17:49:37] [Info] Connect m.addthis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:37] [Info] DNS nolock query m.addthis.com answer 84.53.135.137
+[2020-02-18 17:49:37] [Info] Disconnect 216.58.200.46:443
+[2020-02-18 17:49:37] [Info] Disconnect 172.217.160.77:443
+[2020-02-18 17:49:37] [Info] Disconnect 172.217.160.78:443
+[2020-02-18 17:49:37] [Info] Disconnect 172.217.160.78:443
+[2020-02-18 17:49:38] [Info] Disconnect 35.244.232.184:443
+[2020-02-18 17:49:38] [Info] Disconnect 35.244.232.184:443
+[2020-02-18 17:49:38] [Info] Disconnect 35.244.232.184:443
+[2020-02-18 17:49:38] [Info] Disconnect 35.244.232.184:443
+[2020-02-18 17:49:38] [Info] DNS query brightcove04pmdo-a.akamaihd.net answer 173.223.106.8
+[2020-02-18 17:49:38] [Info] Connect brightcove04pmdo-a.akamaihd.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:38] [Info] DNS nolock query brightcove04pmdo-a.akamaihd.net answer 173.223.106.8
+[2020-02-18 17:49:38] [Info] DNS query secure.brightcove.com answer 64.74.101.79
+[2020-02-18 17:49:38] [Info] Connect secure.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:38] [Info] DNS nolock query secure.brightcove.com answer 64.74.101.79
+[2020-02-18 17:49:38] [Info] Disconnect 96.16.173.106:443
+[2020-02-18 17:49:38] [Info] Disconnect 35.244.232.184:443
+[2020-02-18 17:49:38] [Info] Connect brightcove04pmdo-a.akamaihd.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:38] [Info] DNS nolock query brightcove04pmdo-a.akamaihd.net answer 173.223.106.8
+[2020-02-18 17:49:38] [Info] Connect secure.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:38] [Info] DNS nolock query secure.brightcove.com answer 64.74.101.79
+[2020-02-18 17:49:38] [Info] Connect brightcove04pmdo-a.akamaihd.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:38] [Info] DNS nolock query brightcove04pmdo-a.akamaihd.net answer 173.223.106.8
+[2020-02-18 17:49:38] [Info] Connect secure.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:38] [Info] DNS nolock query secure.brightcove.com answer 64.74.101.79
+[2020-02-18 17:49:39] [Info] DNS query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 17:49:39] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:39] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 17:49:39] [Info] Disconnect 173.223.106.8:443
+[2020-02-18 17:49:39] [Info] DNS query analytics.foresee.com answer 52.202.9.160
+[2020-02-18 17:49:39] [Info] Connect analytics.foresee.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:39] [Info] DNS nolock query analytics.foresee.com answer 52.202.9.160
+[2020-02-18 17:49:39] [Info] Direct connect translate.googleapis.com:443
+[2020-02-18 17:49:39] [Info] Connect secure.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:39] [Info] DNS nolock query secure.brightcove.com answer 64.74.101.79
+[2020-02-18 17:49:39] [Info] Direct connect translate.googleapis.com:443
+[2020-02-18 17:49:39] [Info] Direct connect translate.googleapis.com:443
+[2020-02-18 17:49:40] [Info] DNS query f1.media.brightcove.com answer 151.101.230.27
+[2020-02-18 17:49:40] [Info] Connect f1.media.brightcove.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:40] [Info] DNS nolock query f1.media.brightcove.com answer 151.101.230.27
+[2020-02-18 17:49:40] [Info] DNS query translate.google.com answer 172.217.160.78
+[2020-02-18 17:49:40] [Info] Connect translate.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:49:40] [Info] DNS nolock query translate.google.com answer 172.217.160.78
+[2020-02-18 17:49:42] [Info] Disconnect 151.101.228.133:443
+[2020-02-18 17:49:43] [Info] Disconnect 104.16.24.4:443
+[2020-02-18 17:49:48] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 17:50:09] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 17:50:18] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 17:50:18] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 17:50:18] [Info] Disconnect 96.16.173.106:443
+[2020-02-18 17:50:19] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 17:50:20] [Info] Disconnect 173.223.107.9:443
+[2020-02-18 17:50:28] [Info] Disconnect 99.84.55.107:443
+[2020-02-18 17:50:28] [Info] Disconnect 99.84.55.107:443
+[2020-02-18 17:51:26] [Info] Disconnect 172.217.24.3:443
+[2020-02-18 17:51:27] [Info] Disconnect 216.58.200.46:443
+[2020-02-18 17:51:27] [Info] Disconnect 13.107.42.12:443
+[2020-02-18 17:51:28] [Info] Disconnect 172.217.160.77:443
+[2020-02-18 17:51:28] [Info] Disconnect 69.171.224.40:443
+[2020-02-18 17:51:29] [Info] Disconnect 13.224.154.122:443
+[2020-02-18 17:51:29] [Info] Disconnect 35.244.232.184:443
+[2020-02-18 17:51:29] [Info] Disconnect 13.35.67.41:443
+[2020-02-18 17:51:29] [Info] Disconnect 96.16.174.85:443
+[2020-02-18 17:51:31] [Info] Disconnect 151.101.230.27:443
+[2020-02-18 17:51:31] [Info] Disconnect 64.74.101.79:443
+[2020-02-18 17:51:31] [Info] Disconnect 64.74.101.79:443
+[2020-02-18 17:51:31] [Info] Disconnect 173.223.106.8:443
+[2020-02-18 17:51:31] [Info] Disconnect 13.224.154.122:443
+[2020-02-18 17:51:31] [Info] Disconnect 13.224.154.122:443
+[2020-02-18 17:51:31] [Info] Disconnect 64.74.101.79:443
+[2020-02-18 17:51:31] [Info] Disconnect 52.202.9.160:443
+[2020-02-18 17:51:31] [Info] Disconnect 173.223.106.8:443
+[2020-02-18 17:51:31] [Info] Disconnect 172.217.27.129:443
+[2020-02-18 17:51:31] [Info] Disconnect 216.58.200.238:443
+[2020-02-18 17:51:31] [Info] Disconnect 216.58.200.238:443
+[2020-02-18 17:51:32] [Info] Disconnect 172.217.160.78:443
+[2020-02-18 17:51:32] [Info] Disconnect 172.217.160.78:443
+[2020-02-18 17:51:32] [Info] Disconnect 216.58.200.238:443
+[2020-02-18 17:51:32] [Info] Disconnect 172.217.160.78:443
+[2020-02-18 17:51:32] [Info] Disconnect 64.74.101.79:443
+[2020-02-18 17:53:01] [Info] Connect raw.githubusercontent.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:53:01] [Info] DNS nolock query raw.githubusercontent.com answer 151.101.228.133
+[2020-02-18 17:53:01] [Info] Connect www.cordcord.xyz:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 17:53:01] [Info] DNS nolock query www.cordcord.xyz answer 104.16.24.4
+[2020-02-18 17:54:42] [Info] Disconnect 151.101.228.133:443
+[2020-02-18 17:54:43] [Info] Disconnect 104.16.24.4:443
+[2020-02-18 18:10:14] [Info] Connect www.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:14] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:14] [Info] Connect hello.myfonts.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:14] [Info] DNS nolock query hello.myfonts.net answer 31.13.80.17
+[2020-02-18 18:10:14] [Info] Connect assets.adobedtm.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:14] [Info] DNS nolock query assets.adobedtm.com answer 96.16.173.106
+[2020-02-18 18:10:16] [Info] Connect m.addthis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:16] [Info] DNS nolock query m.addthis.com answer 84.53.135.137
+[2020-02-18 18:10:16] [Info] Connect v1.addthisedge.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:16] [Info] DNS nolock query v1.addthisedge.com answer 84.53.135.137
+[2020-02-18 18:10:16] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:16] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 18:10:16] [Info] DNS query bam.nr-data.net answer 162.247.242.21
+[2020-02-18 18:10:16] [Info] Connect bam.nr-data.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:16] [Info] DNS nolock query bam.nr-data.net answer 162.247.242.21
+[2020-02-18 18:10:16] [Info] Connect analytics.foresee.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:16] [Info] DNS nolock query analytics.foresee.com answer 52.202.9.160
+[2020-02-18 18:10:24] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 18:10:24] [Info] Disconnect 96.16.173.106:443
+[2020-02-18 18:10:26] [Info] Connect www.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:26] [Info] DNS nolock query www.google.com answer 69.171.224.40
+[2020-02-18 18:10:34] [Info] Connect www.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:34] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:34] [Info] Connect m.addthis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:34] [Info] DNS nolock query m.addthis.com answer 84.53.135.137
+[2020-02-18 18:10:34] [Info] Connect www.imf.org:80 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:34] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:34] [Info] Connect www.imf.org:80 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:34] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:34] [Info] Connect ajax.googleapis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:34] [Info] DNS nolock query ajax.googleapis.com answer 172.217.160.106
+[2020-02-18 18:10:34] [Info] Connect www.imf.org:80 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:34] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:34] [Info] Connect www.imf.org:80 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:34] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:34] [Info] Connect www.imf.org:80 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:34] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:34] [Info] Connect s7.addthis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:34] [Info] DNS nolock query s7.addthis.com answer 84.53.135.137
+[2020-02-18 18:10:34] [Info] Connect hello.myfonts.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:34] [Info] DNS nolock query hello.myfonts.net answer 31.13.80.17
+[2020-02-18 18:10:35] [Info] Disconnect 173.223.107.9:80
+[2020-02-18 18:10:35] [Info] Disconnect 173.223.107.9:80
+[2020-02-18 18:10:35] [Info] Disconnect 173.223.107.9:80
+[2020-02-18 18:10:35] [Info] Disconnect 173.223.107.9:80
+[2020-02-18 18:10:35] [Info] Disconnect 173.223.107.9:80
+[2020-02-18 18:10:35] [Info] Connect bam.nr-data.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:35] [Info] DNS nolock query bam.nr-data.net answer 162.247.242.21
+[2020-02-18 18:10:35] [Info] Connect assets.adobedtm.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:35] [Info] DNS nolock query assets.adobedtm.com answer 96.16.173.106
+[2020-02-18 18:10:36] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:36] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 18:10:36] [Info] Connect v1.addthisedge.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:36] [Info] DNS nolock query v1.addthisedge.com answer 84.53.135.137
+[2020-02-18 18:10:36] [Info] Connect analytics.foresee.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:36] [Info] DNS nolock query analytics.foresee.com answer 52.202.9.160
+[2020-02-18 18:10:37] [Info] Disconnect 96.16.173.106:443
+[2020-02-18 18:10:37] [Info] DNS query js-agent.newrelic.com answer 151.101.230.110
+[2020-02-18 18:10:37] [Info] Connect js-agent.newrelic.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:37] [Info] DNS nolock query js-agent.newrelic.com answer 151.101.230.110
+[2020-02-18 18:10:37] [Info] DNS query s14-sync.firefox.com.cn answer 39.106.110.146
+[2020-02-18 18:10:37] [Info] Direct connect s14-sync.firefox.com.cn:443
+[2020-02-18 18:10:37] [Info] Disconnect 151.101.230.110:443
+[2020-02-18 18:10:38] [Info] Connect www.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:38] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:43] [Info] Connect assets.adobedtm.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:43] [Info] DNS nolock query assets.adobedtm.com answer 96.16.173.106
+[2020-02-18 18:10:43] [Info] Connect ajax.googleapis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:43] [Info] DNS nolock query ajax.googleapis.com answer 172.217.160.106
+[2020-02-18 18:10:43] [Info] Connect code.jquery.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:43] [Info] DNS nolock query code.jquery.com answer 209.197.3.24
+[2020-02-18 18:10:44] [Info] Connect hello.myfonts.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:44] [Info] DNS nolock query hello.myfonts.net answer 31.13.80.17
+[2020-02-18 18:10:44] [Info] Connect www.imf.org:80 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:44] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:44] [Info] Connect www.imf.org:80 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:44] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:44] [Info] Connect www.imf.org:80 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:44] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:44] [Info] Connect www.imf.org:80 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:44] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:44] [Info] Connect www.imf.org:80 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:44] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:44] [Info] Connect gateway.foresee.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:44] [Info] DNS nolock query gateway.foresee.com answer 13.35.67.41
+[2020-02-18 18:10:44] [Info] Disconnect 173.223.107.9:80
+[2020-02-18 18:10:44] [Info] Disconnect 173.223.107.9:80
+[2020-02-18 18:10:44] [Info] Disconnect 173.223.107.9:80
+[2020-02-18 18:10:44] [Info] Disconnect 173.223.107.9:80
+[2020-02-18 18:10:44] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:44] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 18:10:45] [Info] Disconnect 173.223.107.9:80
+[2020-02-18 18:10:45] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 18:10:49] [Info] DNS query clients4.google.com answer 172.217.160.78
+[2020-02-18 18:10:49] [Info] Connect clients4.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:49] [Info] DNS nolock query clients4.google.com answer 172.217.160.78
+[2020-02-18 18:10:54] [Info] Disconnect 209.197.3.24:443
+[2020-02-18 18:10:55] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 18:10:55] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:55] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 18:10:55] [Info] Connect www.imf.org:80 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:55] [Info] DNS nolock query www.imf.org answer 173.223.107.9
+[2020-02-18 18:10:55] [Info] Connect assets.adobedtm.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:55] [Info] DNS nolock query assets.adobedtm.com answer 96.16.173.106
+[2020-02-18 18:10:55] [Info] Connect ajax.googleapis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:55] [Info] DNS nolock query ajax.googleapis.com answer 172.217.160.106
+[2020-02-18 18:10:55] [Info] Connect code.jquery.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:55] [Info] DNS nolock query code.jquery.com answer 209.197.3.24
+[2020-02-18 18:10:56] [Info] Disconnect 173.223.107.9:80
+[2020-02-18 18:10:56] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 18:10:56] [Info] Connect s7.addthis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:56] [Info] DNS nolock query s7.addthis.com answer 84.53.135.137
+[2020-02-18 18:10:57] [Info] Connect v1.addthisedge.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:57] [Info] DNS nolock query v1.addthisedge.com answer 84.53.135.137
+[2020-02-18 18:10:57] [Info] Connect gateway.foresee.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:10:57] [Info] DNS nolock query gateway.foresee.com answer 13.35.67.41
+[2020-02-18 18:10:57] [Info] Direct connect fonts.googleapis.com:443
+[2020-02-18 18:10:57] [Info] Direct connect fonts.gstatic.com:443
+[2020-02-18 18:11:01] [Info] Direct connect translate.googleapis.com:443
+[2020-02-18 18:11:02] [Info] Connect translate.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:02] [Info] DNS nolock query translate.google.com answer 172.217.160.78
+[2020-02-18 18:11:05] [Info] Disconnect 209.197.3.24:443
+[2020-02-18 18:11:05] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 18:11:06] [Info] Disconnect 96.16.173.106:443
+[2020-02-18 18:11:08] [Info] Disconnect 172.217.160.106:443
+[2020-02-18 18:11:10] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:10] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 18:11:10] [Info] Connect gateway.foresee.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:10] [Info] DNS nolock query gateway.foresee.com answer 13.35.67.41
+[2020-02-18 18:11:10] [Info] Direct connect fonts.googleapis.com:443
+[2020-02-18 18:11:11] [Info] Direct connect fonts.gstatic.com:443
+[2020-02-18 18:11:11] [Info] DNS query api-accounts.firefox.com.cn answer 39.107.149.229
+[2020-02-18 18:11:11] [Info] Direct connect api-accounts.firefox.com.cn:443
+[2020-02-18 18:11:12] [Info] Connect code.jquery.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:12] [Info] DNS nolock query code.jquery.com answer 209.197.3.24
+[2020-02-18 18:11:13] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:13] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 18:11:17] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 18:11:17] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 18:11:18] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 18:11:22] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 18:11:23] [Info] Disconnect 209.197.3.24:443
+[2020-02-18 18:11:24] [Info] Direct connect fonts.gstatic.com:443
+[2020-02-18 18:11:37] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 18:11:37] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 18:11:42] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:42] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 18:11:42] [Info] Connect v1.addthisedge.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:42] [Info] DNS nolock query v1.addthisedge.com answer 84.53.135.137
+[2020-02-18 18:11:47] [Info] Direct connect translate.googleapis.com:443
+[2020-02-18 18:11:47] [Info] Direct connect ocsp.pki.goog:80
+[2020-02-18 18:11:47] [Info] Connect www.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:47] [Info] DNS nolock query www.google.com answer 69.171.224.40
+[2020-02-18 18:11:48] [Info] Connect translate.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:48] [Info] DNS nolock query translate.google.com answer 172.217.160.78
+[2020-02-18 18:11:50] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 18:11:52] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:52] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 18:11:52] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 18:11:52] [Info] DNS query static.cloud.coveo.com answer 13.224.161.18
+[2020-02-18 18:11:52] [Info] DNS query static.cloud.coveo.com answer 13.224.161.18
+[2020-02-18 18:11:52] [Info] Connect static.cloud.coveo.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:52] [Info] Connect static.cloud.coveo.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:52] [Info] DNS nolock query static.cloud.coveo.com answer 13.224.161.18
+[2020-02-18 18:11:52] [Info] DNS nolock query static.cloud.coveo.com answer 13.224.161.18
+[2020-02-18 18:11:52] [Info] Connect code.jquery.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:52] [Info] DNS nolock query code.jquery.com answer 209.197.3.24
+[2020-02-18 18:11:54] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:54] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 18:11:56] [Info] DNS query ssl.google-analytics.com answer 203.208.39.254
+[2020-02-18 18:11:56] [Info] Direct connect ssl.google-analytics.com:443
+[2020-02-18 18:11:56] [Info] DNS query stats.g.doubleclick.net answer 203.208.41.57
+[2020-02-18 18:11:56] [Info] Direct connect stats.g.doubleclick.net:443
+[2020-02-18 18:11:57] [Info] Disconnect 173.223.107.9:443
+[2020-02-18 18:11:57] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 18:11:59] [Info] DNS query incoming.telemetry.mozilla.org answer 35.161.227.81
+[2020-02-18 18:11:59] [Info] Connect incoming.telemetry.mozilla.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:11:59] [Info] DNS nolock query incoming.telemetry.mozilla.org answer 35.161.227.81
+[2020-02-18 18:12:00] [Info] DNS query publish-pic-cpu.baidu.com answer 125.64.104.35
+[2020-02-18 18:12:00] [Info] DNS query publish-pic-cpu.baidu.com answer 125.64.104.35
+[2020-02-18 18:12:00] [Info] DNS query publish-pic-cpu.baidu.com answer 125.64.104.35
+[2020-02-18 18:12:00] [Info] DNS query publish-pic-cpu.baidu.com answer 125.64.104.35
+[2020-02-18 18:12:00] [Info] Direct connect publish-pic-cpu.baidu.com:443
+[2020-02-18 18:12:00] [Info] Direct connect publish-pic-cpu.baidu.com:443
+[2020-02-18 18:12:00] [Info] Direct connect publish-pic-cpu.baidu.com:443
+[2020-02-18 18:12:00] [Info] Direct connect publish-pic-cpu.baidu.com:443
+[2020-02-18 18:12:00] [Info] Direct connect publish-pic-cpu.baidu.com:443
+[2020-02-18 18:12:03] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:12:03] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 18:12:03] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 18:12:03] [Info] Disconnect 209.197.3.24:443
+[2020-02-18 18:12:11] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 18:12:15] [Info] DNS query profile.firefox.com.cn answer 39.107.149.229
+[2020-02-18 18:12:15] [Info] Direct connect profile.firefox.com.cn:443
+[2020-02-18 18:12:22] [Info] Connect swebstats.imf.org:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:12:22] [Info] DNS nolock query swebstats.imf.org answer 13.113.240.56
+[2020-02-18 18:12:23] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 18:12:30] [Info] Disconnect 13.113.240.56:443
+[2020-02-18 18:12:36] [Info] DNS query safebrowsing.googleapis.com answer 203.208.41.38
+[2020-02-18 18:12:36] [Info] Direct connect safebrowsing.googleapis.com:443
+[2020-02-18 18:12:40] [Info] Disconnect 172.217.160.78:443
+[2020-02-18 18:12:47] [Info] Disconnect 31.13.80.17:443
+[2020-02-18 18:12:49] [Info] DNS query browser.pipe.aria.microsoft.com answer 40.122.160.14
+[2020-02-18 18:12:49] [Info] Connect browser.pipe.aria.microsoft.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:12:49] [Info] DNS nolock query browser.pipe.aria.microsoft.com answer 40.122.160.14
+[2020-02-18 18:12:53] [Info] Disconnect 172.217.160.78:443
+[2020-02-18 18:12:55] [Info] Disconnect 69.171.224.40:443
+[2020-02-18 18:13:02] [Info] Disconnect 35.161.227.81:443
+[2020-02-18 18:13:02] [Info] Disconnect 13.35.67.41:443
+[2020-02-18 18:13:04] [Info] DNS query api2.firefoxchina.cn answer 218.63.34.92
+[2020-02-18 18:13:04] [Info] Direct connect api2.firefoxchina.cn:443
+[2020-02-18 18:13:04] [Info] DNS query nspt.bdstatic.com answer 125.64.104.48
+[2020-02-18 18:13:04] [Info] Direct connect nspt.bdstatic.com:443
+[2020-02-18 18:13:10] [Info] DNS query checkappexec.microsoft.com answer 13.67.116.41
+[2020-02-18 18:13:10] [Info] Connect checkappexec.microsoft.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:13:10] [Info] DNS nolock query checkappexec.microsoft.com answer 13.67.116.41
+[2020-02-18 18:13:11] [Info] Disconnect 13.67.116.41:443
+[2020-02-18 18:13:14] [Info] DNS query local.avg.com answer 69.63.176.59
+[2020-02-18 18:13:14] [Info] Connect local.avg.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:13:14] [Info] DNS nolock query local.avg.com answer 69.63.176.59
+[2020-02-18 18:13:15] [Info] Disconnect 69.63.176.59:443
+[2020-02-18 18:13:15] [Info] Connect local.avg.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:13:15] [Info] DNS nolock query local.avg.com answer 69.63.176.59
+[2020-02-18 18:13:16] [Info] Disconnect 69.63.176.59:443
+[2020-02-18 18:13:16] [Info] Connect local.avg.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:13:16] [Info] DNS nolock query local.avg.com answer 69.63.176.59
+[2020-02-18 18:13:17] [Info] Disconnect 69.63.176.59:443
+[2020-02-18 18:13:17] [Info] Connect local.avg.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:13:17] [Info] DNS nolock query local.avg.com answer 69.63.176.59
+[2020-02-18 18:13:17] [Info] Disconnect 69.63.176.59:443
+[2020-02-18 18:13:43] [Info] Disconnect 13.224.161.18:443
+[2020-02-18 18:13:46] [Info] Disconnect 13.224.161.18:443
+[2020-02-18 18:14:03] [Info] Disconnect 31.13.80.17:443
+[2020-02-18 18:14:04] [Info] Disconnect 172.217.160.106:443
+[2020-02-18 18:14:04] [Info] Disconnect 96.16.173.106:443
+[2020-02-18 18:14:05] [Info] Disconnect 13.35.67.41:443
+[2020-02-18 18:14:05] [Info] Disconnect 173.223.107.9:443
+[2020-02-18 18:14:15] [Info] Disconnect 13.35.67.41:443
+[2020-02-18 18:14:17] [Info] DNS query android.clients.google.com answer 172.217.160.78
+[2020-02-18 18:14:17] [Info] Connect android.clients.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:14:17] [Info] DNS nolock query android.clients.google.com answer 172.217.160.78
+[2020-02-18 18:14:17] [Info] DNS query www.googleapis.com answer 216.58.200.234
+[2020-02-18 18:14:17] [Info] Connect www.googleapis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:14:17] [Info] DNS nolock query www.googleapis.com answer 216.58.200.234
+[2020-02-18 18:14:17] [Info] Connect clients4.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:14:17] [Info] DNS nolock query clients4.google.com answer 172.217.160.78
+[2020-02-18 18:14:25] [Info] Disconnect 162.247.242.21:443
+[2020-02-18 18:14:39] [Info] Disconnect 69.171.224.40:443
+[2020-02-18 18:14:40] [Info] Disconnect 172.217.160.78:443
+[2020-02-18 18:14:42] [Info] Disconnect 40.122.160.14:443
+[2020-02-18 18:14:42] [Info] Disconnect 162.247.242.21:443
+[2020-02-18 18:14:43] [Info] Disconnect 172.217.160.106:443
+[2020-02-18 18:14:48] [Info] Disconnect 52.202.9.160:443
+[2020-02-18 18:14:51] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 18:15:12] [Info] Disconnect 31.13.80.17:443
+[2020-02-18 18:15:13] [Info] Disconnect 173.223.107.9:443
+[2020-02-18 18:15:14] [Info] Disconnect 52.202.9.160:443
+[2020-02-18 18:15:31] [Info] Connect d.docs.live.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:15:31] [Info] DNS nolock query d.docs.live.net answer 13.107.42.12
+[2020-02-18 18:15:34] [Info] Connect d.docs.live.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:15:34] [Info] DNS nolock query d.docs.live.net answer 13.107.42.12
+[2020-02-18 18:15:34] [Info] Connect d.docs.live.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:15:34] [Info] DNS nolock query d.docs.live.net answer 13.107.42.12
+[2020-02-18 18:15:35] [Info] Disconnect 13.107.42.12:443
+[2020-02-18 18:15:35] [Info] Disconnect 13.107.42.12:443
+[2020-02-18 18:15:47] [Info] Connect www.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:15:47] [Info] DNS nolock query www.google.com answer 69.171.224.40
+[2020-02-18 18:15:49] [Info] Connect m.addthis.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:15:49] [Info] DNS nolock query m.addthis.com answer 84.53.135.137
+[2020-02-18 18:15:49] [Info] Connect bam.nr-data.net:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:15:49] [Info] DNS nolock query bam.nr-data.net answer 162.247.242.21
+[2020-02-18 18:15:57] [Info] Disconnect 69.171.224.40:443
+[2020-02-18 18:16:09] [Info] Disconnect 216.58.200.234:443
+[2020-02-18 18:16:09] [Info] Disconnect 172.217.160.78:443
+[2020-02-18 18:16:09] [Info] Disconnect 172.217.160.78:443
+[2020-02-18 18:16:27] [Info] Connect clients4.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:16:27] [Info] DNS nolock query clients4.google.com answer 172.217.160.78
+[2020-02-18 18:16:36] [Info] Disconnect 84.53.135.137:443
+[2020-02-18 18:17:27] [Info] Disconnect 162.247.242.21:443
+[2020-02-18 18:18:19] [Info] Disconnect 172.217.160.78:443
+[2020-02-18 18:19:26] [Info] Connect android.clients.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:19:26] [Info] DNS nolock query android.clients.google.com answer 172.217.160.78
+[2020-02-18 18:19:26] [Info] DNS query hk.iepl-hgc.ccddns.online answer 14.17.95.113
+[2020-02-18 18:19:26] [Info] DNS query beacons.gcp.gvt2.com answer 203.208.41.63
+[2020-02-18 18:19:26] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2020-02-18 18:19:57] [Info] Connect www.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:19:57] [Info] DNS nolock query www.google.com answer 69.171.224.40
+[2020-02-18 18:19:58] [Info] Connect play.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:19:58] [Info] DNS nolock query play.google.com answer 172.217.160.78
+[2020-02-18 18:19:59] [Info] Connect clients5.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:19:59] [Info] DNS nolock query clients5.google.com answer 216.58.200.46
+[2020-02-18 18:19:59] [Info] Disconnect 216.58.200.46:443
+[2020-02-18 18:19:59] [Info] Direct connect adservice.google.com:443
+[2020-02-18 18:19:59] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 18:19:59] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 18:19:59] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 18:19:59] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 18:19:59] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 18:19:59] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 18:19:59] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 18:19:59] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 18:19:59] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 18:19:59] [Error] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Util.Utils.QueryDns(String host, String dns_servers, Boolean IPv6_first)
+   在 Shadowsocks.Controller.Socks5Forwarder.IsHandle(Byte[] firstPacket, Int32 length, Socket socket)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handle(Byte[] firstPacket, Int32 length, Socket socket, String local_sendback_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.RspHttpHandshakeReceive()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive()
+[2020-02-18 18:20:03] [Info] Connect ogs.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:20:03] [Info] DNS nolock query ogs.google.com answer 216.58.200.238
+[2020-02-18 18:20:03] [Info] Direct connect www.gstatic.com:443
+[2020-02-18 18:20:03] [Info] Connect ogs.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:20:03] [Info] DNS nolock query ogs.google.com answer 216.58.200.238
+[2020-02-18 18:20:04] [Info] Connect apis.google.com:443 via hk.iepl-hgc.ccddns.online:33283
+[2020-02-18 18:20:04] [Info] DNS nolock query apis.google.com answer 216.58.200.238
